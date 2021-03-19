@@ -6,7 +6,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DepsWebApp.Services
+namespace DepsWebApp.Services.Migration
 {
 #pragma warning disable CS1591 // Missing XML comment for publicly visible type or member
     public class MigrationsService : IHostedService

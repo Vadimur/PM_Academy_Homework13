@@ -1,5 +1,5 @@
 using DepsWebApp.AppDbContext;
-using DepsWebApp.Services;
+using DepsWebApp.Services.Migration;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
